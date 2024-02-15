@@ -1,0 +1,8 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óù¨…8â€ÍÚ1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ÊóÅü8ê–ÍÚ1
+O
+java:S4925"-Remove this "Class.forName()", it is useless.(İˆùÿÿÿÿ8î–ÍÚ1
+S
+java:S6437"6Revoke and change this password, as it is compromised.(†±àÜ8ï–ÍÚ1

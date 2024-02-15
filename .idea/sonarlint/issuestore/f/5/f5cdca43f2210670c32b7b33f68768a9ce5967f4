@@ -1,0 +1,34 @@
+
+g	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ƒ¿¶âÚ1
+g	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÑáØçÚ1
+k
+java:S1192."IDefine a constant instead of duplicating this literal "menu.jsp" 4 times.(è¸´Ãúÿÿÿÿ8ÔáØçÚ1
+q
+java:S2095'"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(·Ç‚æøÿÿÿÿ8íáØçÚ1
+q
+java:S2095G"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(·Ç‚æøÿÿÿÿ8”ßİçÚ1
+L	java:S106"+Replace this use of System.out by a logger.(­ß©Ãúÿÿÿÿ8™¿¶âÚ1
+v
+java:S1989""YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ìôŠ¯8›¿¶âÚ1
+{
+java:S1989#"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(‚Êé¨ÿÿÿÿÿ8üáØçÚ1
+]	java:S125%"<This block of commented-out lines of code should be removed.(‚ÓëŒÿÿÿÿÿ8ÄÆ×çÚ1
+G	java:S106,"+Replace this use of System.out by a logger.(ù‰—8œ¿¶âÚ1
+ƒ
+java:S1989."aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(è¸´Ãúÿÿÿÿ8œ¿¶âÚ1
+G	java:S1061"+Replace this use of System.out by a logger.(á¹ï±8œ¿¶âÚ1
+ƒ
+java:S19893"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(è¸´Ãúÿÿÿÿ8œ¿¶âÚ1
+c
+java:S19897"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8¿¶âÚ1
+{
+java:S1989B"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(‚Êé¨ÿÿÿÿÿ8³ì™èÚ1
+]	java:S125E"<This block of commented-out lines of code should be removed.(‚ÓëŒÿÿÿÿÿ8üáØçÚ1
+G	java:S106L"+Replace this use of System.out by a logger.(ÎÁ–ì8ıáØçÚ1
+ƒ
+java:S1989N"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(è¸´Ãúÿÿÿÿ8şáØçÚ1
+L	java:S106Q"+Replace this use of System.out by a logger.(ñÌüØøÿÿÿÿ8şáØçÚ1
+ƒ
+java:S1989S"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(è¸´Ãúÿÿÿÿ8şáØçÚ1
+c
+java:S1989W"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8ÿáØçÚ1

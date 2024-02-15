@@ -1,0 +1,6 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óù¨…8…ŠÕ˜Ú1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ÊóÅü8§Õ›¹Ú1
+\
+java:S1128":Remove this unused import 'com.example.td2_jee.Connexion'.(›ÂÛéøÿÿÿÿ8şãà¹Ú1
